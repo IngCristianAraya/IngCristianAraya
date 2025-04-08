@@ -1,6 +1,6 @@
 # Hola👋, Bienvenido a mi Perfil de GitHub
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
+[<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>](https://readme-typing-svg.herokuapp.com/demo/?lines=Creando+soluciones+;con+indentaci%C3%B3n+y+pasi%C3%B3n.)
  
  <p>- <i>Soy "desarrollador de aplicaciones móviles" e "ingeniero de software" con pasión por crear soluciones innovadoras. Con habilidades en Python, HTML, CSS, JavaScript, Flutter y React Native. Buenas habilidades para resolver problemas y trabajar en equipo.</i></p>
 
