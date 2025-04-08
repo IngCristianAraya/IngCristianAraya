@@ -16,7 +16,7 @@
 - 💡  Me interesa ... compartir mi conocimiento y colaborar en grandes proyectos.
 - 📖 Estoy aprendiendo ... Machine Learning y desarrollo en app web
 - ❄️ Estoy buscando ...colaborar en proyectos de codigo abierto y aplicativos moviles.
-- 📫 Cómo contactarme ...ingcristianaraya@gmail.com.
+- 📫 Cómo contactarme ... ingcristianaraya@gmail.com.
 
 <hr>
 
