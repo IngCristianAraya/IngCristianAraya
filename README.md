@@ -7,16 +7,16 @@
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
-## ⚡🙋‍♂️ About Me
+## ⚡🙋‍♂️ Acerca de mí
 
 </br>
 
-- 🔧 I’m currently working on ...Online Retail Community App.
+- 🔧 Actualmente estoy trabajando en proyectos personales
 
-- 💡 I’m curious about ...Blockchain and Crypto Currency.
-- 📖 I’m currently learning ...Flask.
-- ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...gkaustav57@gmail.com.
+- 💡  Me interesa ... compartir mi conocimiento y colaborar en grandes proyectos.
+- 📖 Estoy aprendiendo ...Flask.
+- ❄️ Estoy buscando ...colaborar en proyectos de codigo abierto y aplicativos moviles.
+- 📫 Cómo contactarme ...ingcristianaraya@gmail.com.
 
 <hr>
 
